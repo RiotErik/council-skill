@@ -25,7 +25,7 @@ Der Skill arbeitet mit zwei Schichten:
 - **Auflösungs-Reihenfolge für Personas**: Erst der persönliche Direktoren-Ordner (gleicher `slot` oder gleicher Dateiname überschreibt den Standard), dann die gebündelten Standard-Direktoren. Deaktivierte Direktoren überspringen. Der `slot` ist der verlässliche Weg, weil sich Dateinamen zwischen Versionen ändern können.
 - **Persönliche Karten außerhalb des Verzeichnisses**: Den persönlichen Direktoren-Ordner auflisten und von jeder Datei nur das Frontmatter lesen. Dateien im älteren Format (ohne `typ`, `boards` oder `reibung`) sind gültig und stehen normal zur Wahl.
 - **Dossier-Regel**: Ein Dossier gilt nur zusammen mit seiner eigenen Karte. Ersetzt eine persönliche Karte eine Standard-Persona (per Slot oder gleichem Dateinamen), wird das gebündelte Dossier dieses Slots nicht gelesen. Ein persönliches Dossier liegt im persönlichen `dossiers/` unter dem Dateinamen der persönlichen Karte.
-- **Boards**: Themen-Etiketten im Feld `boards`: `strategie-business`, `leben-coaching`, `entscheiden-denken`, `führung-zeit-geld`. Nennt der Nutzer ein Board („Boardroom mit dem Board Leben & Coaching“), wähle aus den Personas dieses Boards.
+- **Boards**: Themen-Etiketten im Feld `boards`: `strategie-business`, `leben-coaching`, `entscheiden-denken`, `führung-zeit-geld`. Nennt der Nutzer ein Board („Boardroom mit dem Board Leben & Coaching“), wähle aus den Personas dieses Boards. Eine persönliche Karte ohne `boards` übernimmt die Boards der Standard-Persona, die sie ersetzt. Ersetzt sie keine, gehört sie zu keinem Board.
 - **Kein Profil vorhanden** (`~/.claude/council/profile.md` fehlt): Session normal durchführen und am Ende einmalig das Onboarding anbieten (siehe "Erster Start").
 
 ## Personen, Figuren und Archetypen
@@ -79,7 +79,7 @@ Existiert ein Profil, lies es zu Beginn jeder Session und nutze den Kontext (Pro
 
 6. **Runde 2: Erwiderung** (Boardroom und Devil's Advocate): Jeder Direktor antwortet namentlich genau einem anderen, in zwei bis vier Sätzen, und benennt einen Widerspruch oder einen blinden Fleck dieser Stimme. Zustimmung ist erlaubt, muss aber sagen, was die andere Stimme übersieht. Keine zweite Eröffnungsrede.
 
-7. **Abstimmung** (Boardroom und Devil's Advocate): Eine Tabellenzeile pro Direktor mit Votum („Ja“, „Nein“ oder „Ja, wenn …“), Zuversicht von 1 bis 10 und der entscheidenden Bedingung. Das Votum drückt die Haltung aus, die Zuversicht misst, wie sicher sich die Persona aus ihrer Lens ist.
+7. **Abstimmung** (Boardroom und Devil's Advocate): Eine Tabellenzeile pro Direktor mit Votum („Ja“, „Nein“ oder „Ja, wenn …“), Zuversicht von 1 bis 10 und der entscheidenden Bedingung. Das Votum drückt die Haltung aus, die Zuversicht misst, wie sicher sich die Persona aus ihrer Lens ist. Abgestimmt wird über die Frage des Nutzers. „Ja, wenn …“ zählt für die Mehrheit als Ja. Bei „Nein“ nennt die Bedingung, was die Persona umstimmen würde.
 
 8. **Debatte sichtbar machen**, eigener Block „Spannungen / Debatte“:
    - Wo widersprechen sich die Direktoren?
@@ -103,17 +103,18 @@ Existiert ein Profil, lies es zu Beginn jeder Session und nutze den Kontext (Pro
 
 Auslöser ist das Wort „unabhängig“ in der Anfrage. Ziel: Die Runde 1 entsteht, ohne dass ein Direktor die anderen Stimmen kennt.
 
-- **Kosten ansagen**: Vor dem Start in einem Satz sagen, dass dieser Ablauf etwa das Drei- bis Siebenfache einer normalen Session kostet.
+- **Kosten ansagen** (nur wenn Subagents verfügbar sind): Vor dem Start in einem Satz sagen, dass dieser Ablauf etwa das Drei- bis Siebenfache einer normalen Session kostet.
 - **Mit Subagents** (Claude Code mit Agent-Werkzeug): Starte für jeden gewählten Direktor einen eigenen Subagent, alle parallel. Jeder bekommt nur
   1. die Frage des Nutzers,
   2. die Karte dieses Direktors (im 1:1 zusätzlich das Dossier nach der Dossier-Regel),
   3. die Profil-Abschnitte, die diese Persona braucht (siehe Datensparsamkeit),
-  4. den Auftrag: „Schreibe die Runde-1-Stimme dieser Persona nach den Regeln für Runde 1. Gib nur den Text der Stimme zurück.“
+  4. den Modus und die Regeln für Runde 1 (Punkt 5 unter „Verhalten“) im Wortlaut, beim Pre-Mortem stattdessen den Ausgangssatz und Punkt 2 aus „Pre-Mortem“,
+  5. den Auftrag: „Schreibe die Runde-1-Stimme dieser Persona nach diesen Regeln. Gib nur den Text der Stimme zurück.“
 
   Runde 2, Abstimmung, Spannungen und Empfehlung führst du danach selbst.
 - **Datensparsamkeit**: Profil-Abschnitte zu Familie und Privatem gehen nur an Personas, deren `boards` `leben-coaching` enthalten. Alle anderen bekommen höchstens Rolle, Projekte und Stil-Wünsche.
 - **Ohne Subagents**: normaler Ablauf. Die Zeile „Modus“ der Session-Datei endet dann mit „(unabhängige Stimmen hier nicht verfügbar, normaler Ablauf)“.
-- **Protokoll**: Die Session-Datei enthält den Block „Kontext je Direktor“ mit einer Zeile pro Direktor: welche Profil-Abschnitte er bekommen hat.
+- **Protokoll** (nur mit Subagents): Die Session-Datei enthält den Block „Kontext je Direktor“ mit einer Zeile pro Direktor: welche Profil-Abschnitte er bekommen hat.
 
 ## Output-Format
 
@@ -155,7 +156,7 @@ Struktur:
 |---|---|---|---|---|
 | … | … | … | … | … |
 
-<!-- Nur bei „unabhängig“ -->
+<!-- Nur bei „unabhängig“ mit Subagents -->
 ## Kontext je Direktor
 - [Direktor]: [Profil-Abschnitte, z. B. Rolle, Projekte]
 

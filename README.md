@@ -38,14 +38,14 @@ So läuft eine Sitzung ab:
 
 **Runde 2** (Auszug)
 - **Harvey Specter an den Value-Investor**: Du rechnest, als stünde der Rabatt schon fest. Er ist erst ein Angebot, und jede Gegenleistung schiebt deine Marge wieder nach oben.
-- **Der Value-Investor an Sun Tzu**: Den Druck auf Kundenseite herauszufinden ist klug, ersetzt aber keine Rechnung. Auch ein Kunde unter Druck hält dich in der Hand, wenn er ein Drittel deines Umsatzes ausmacht.
+- **Der Value-Investor an Sun Tzu**: Den Druck auf Kundenseite herauszufinden ist klug, ersetzt aber keine Rechnung. Auch ein Kunde unter Druck hält dich in der Hand, wenn er mehr als ein Drittel deines Umsatzes ausmacht.
 - **David Ogilvy an Harvey Specter**: Bei den Gegenleistungen bin ich bei dir. Du übersiehst, dass sich ein Rabatt herumspricht: Was dieser Kunde bekommt, verlangen die nächsten auch.
 
 **Abstimmung**
 
 | Beirat | Votum | Zuversicht (1 bis 10) | Entscheidende Bedingung |
 |--------|-------|-----------------------|-------------------------|
-| Der Value-Investor | Ja, wenn … | 6 | Marge bleibt zweistellig, Kunde unter einem Drittel des Umsatzes |
+| Der Value-Investor | Ja, wenn … | 6 | Marge bleibt zweistellig, Kunde bei höchstens einem Drittel des Umsatzes |
 | Harvey Specter | Ja, wenn … | 8 | Rabatt nur gegen Vorauszahlung, Mindestvolumen und Referenz |
 | Andrew Grove | Ja, wenn … | 5 | Kennzahl für Neuverhandlung steht im Vertrag |
 | Sun Tzu | Nein | 6 | Die 20 Prozent nie als Ausgangspunkt annehmen, erst Gegenangebot |
@@ -56,7 +56,7 @@ So läuft eine Sitzung ab:
 - Ogilvy will den Listenpreis schützen. Specter würde ihn opfern, wenn die Gegenleistung stimmt.
 
 **Empfehlung**
-- **Decision**: Gegenangebot mit gestaffeltem Rabatt: zehn Prozent im ersten Jahr, bis zu 15 Prozent ab einem Mindestvolumen, gegen Vorauszahlung und Referenz.
+- **Decision**: Gegenangebot mit gestaffeltem Rabatt: zehn Prozent im ersten Jahr, bis zu 15 Prozent ab einem Mindestvolumen, gegen Vorauszahlung und Referenz. Das entspricht dem bedingten Ja der Mehrheit und nimmt Sun Tzus Nein auf: Die Verhandlung startet beim eigenen Gegenangebot.
 - **Action**: Marge nach Rabatt und Umsatzanteil des Kunden ausrechnen. Eigene Alternative festlegen, falls der Kunde ablehnt. Gegenangebot mit Bedingungen formulieren und als Treuerabatt benennen.
 - **Risk**: Der Kunde wächst auf mehr als ein Drittel deines Umsatzes. Lackmustest: Würdest du zu diesen Konditionen auch unterschreiben, wenn drei andere Anfragen auf dem Tisch lägen?
 - **Open**: Wie groß ist der Druck auf Kundenseite, und was kostet ihn ein Wechsel?
