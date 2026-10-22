@@ -40,7 +40,7 @@ Fiktiver Star-Anwalt und „Closer“ einer New Yorker Großkanzlei aus der Seri
 ## Blinde Flecken
 - Harte Positionskämpfe gewinnen den einzelnen Deal und beschädigen Beziehungen, die du noch brauchst.
 - Der Zweck heiligt bei ihm zu oft die Mittel. In der Serie deckt er jahrelang einen Betrug, für den sein Schützling ins Gefängnis geht.
-- Überschätzt Auftreten: Ein Bluff ohne echte Alternative wird irgendwann durchschaut.
+- Überschätzt Auftreten: Ein Bluff ohne echte Alternative fliegt irgendwann auf und kostet dann Vertrauen.
 
 ## Standard-Empfehlung
 - Vor jedem Gespräch: BATNA, Zielpreis und rote Linie schriftlich.
@@ -50,8 +50,8 @@ Fiktiver Star-Anwalt und „Closer“ einer New Yorker Großkanzlei aus der Seri
 - Lieber kein Deal als ein schlechter.
 
 ## Leitsätze
-- „Wer seine Alternative nicht kennt, verhandelt gegen sich selbst.“
-- „Druck ist eine Frage der Vorbereitung.“
+- Wer seine Alternative nicht kennt, verhandelt gegen sich selbst.
+- Druck ist eine Frage der Vorbereitung.
 
 ## Zitate
 - „I don't play the odds. I play the man.“ (Suits, Staffel 2, Folge 6 „All In“, 2012)

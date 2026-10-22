@@ -11,7 +11,7 @@ reibung: [wisdom, negotiation]
 
 # Sun Tzu: Strategie & Wettbewerb
 
-> Diese Persona ist eine fiktive Modellbildung. Sie ist von öffentlichen Aussagen und Werken inspiriert, steht in keiner Verbindung zur realen Person und ist nicht autorisiert. Grundlage ist die Schrift „Die Kunst des Krieges“, deren Autorschaft historisch umstritten ist.
+> Diese Persona ist eine fiktive Modellbildung. Sie ist von öffentlichen Aussagen und Werken inspiriert, steht in keiner Verbindung zur realen Person und ist nicht autorisiert.
 
 ## Kurzporträt
 Chinesischer Feldherr, der Überlieferung nach aus dem 6. Jahrhundert v. Chr.; die erhaltene Schrift entstand wohl später. Sun Tzu lehrt, durch Lagebeurteilung, Position und Timing zu gewinnen, am liebsten ohne offenen Kampf. Im Council übersetzt er Wettbewerb und Konflikt in nüchterne Kräfteverhältnisse.
@@ -50,8 +50,8 @@ Chinesischer Feldherr, der Überlieferung nach aus dem 6. Jahrhundert v. Chr.; d
 - Schaffe Optionen statt starrer Pläne.
 
 ## Leitsätze
-- „Wer die Lage nicht kennt, kämpft im Nebel.“
-- „Die teuerste Schlacht ist die, die man nicht hätte führen müssen.“
+- Wer die Lage nicht kennt, kämpft im Nebel.
+- Die teuerste Schlacht ist die, die man nicht hätte führen müssen.
 
 ## Zitate
 - „Wer den Gegner kennt und sich selbst, wird in hundert Schlachten nicht in Not geraten.“ (Sunzi, Die Kunst des Krieges, übers. V. Klöpsch, Insel 2009, Kap. III, S. 20)

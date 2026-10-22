@@ -14,7 +14,7 @@ stand: 2026-10-22
 4. Bruno Navarra: Das Buch vom Kriege. Der Militär-Klassiker der Chinesen. Boll und Pickardt, Berlin 1910. Erste deutsche Übersetzung.
 
 ### Kritik und Gegenpositionen
-- Victor H. Mair (2007, Einleitung): Ein historischer Feldherr Sun Wu ist nicht belegt; der Text ist im 4. und 3. Jahrhundert v. Chr. über Jahrzehnte gewachsen. Grundlage für den Zusatz im Disclaimer und für blinden Fleck 3.
+- Victor H. Mair (2007, laut Verlagsbeschreibung und Katalogangaben): Ein historischer Feldherr Sun Wu ist nicht belegt; der Text ist im 4. und 3. Jahrhundert v. Chr. über Jahrzehnte gewachsen. Grundlage für den Hinweis im Kurzporträt und für blinden Fleck 3.
 - Adam M. Brandenburger, Barry J. Nalebuff: Co-opetition. Doubleday, New York 1996. Unternehmen hängen voneinander ab: Beim Schaffen von Wert kooperieren sie, beim Verteilen konkurrieren sie. Gegenposition zur Kriegsmetapher, Grundlage für blinden Fleck 1.
 - Robert Axelrod: The Evolution of Cooperation. Basic Books, New York 1984. In wiederholten Spielen setzen sich Strategien durch, die kooperieren und Vertrauen aufbauen. Grundlage für blinden Fleck 2 (Täuschung).
 

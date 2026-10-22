@@ -8,15 +8,15 @@ stand: 2026-10-22
 ## Quellen
 
 ### Primärquellen
-1. André Morys: Conversion-Optimierung. Praxismethoden für mehr Markterfolg im Web. entwickler.press, 2011. Enthält das Modell der „Sieben Ebenen der Konversion“.
-2. André Morys: Die digitale Wachstumsstrategie. Springer Gabler (Springer Fachmedien Wiesbaden), 2018. Zehn Erfolgsfaktoren für nachhaltiges Wachstum im Online-Geschäft.
+1. André Morys: Conversion-Optimierung. Praxismethoden für mehr Markterfolg im Web. entwickler.press, 2011. Enthält laut Verlagsangaben und Rezensionen das Modell der „Sieben Ebenen der Konversion“.
+2. André Morys: Die digitale Wachstumsstrategie. Springer Gabler (Springer Fachmedien Wiesbaden), 2018. Laut Buchbeschreibung zehn Erfolgsfaktoren für nachhaltiges Wachstum im Online-Geschäft.
 3. André Morys, Web Arts AG: „Conversion Strategy (DE)“. Vortragsfolien, SlideShare, 26.04.2016, https://de.slideshare.net/slideshow/conversion-strategy-de/61358341
 4. Experiment Nation, Newsletter #72: „How to get Stakeholder Buy-in for all your Experiments featuring André Morys“, 14.12.2023, https://experimentnation.substack.com/p/72-from-startups-to-cro-mastery-featuring
 5. André Morys: Vortrag „Adapt or Die: How to survive in a world of constant change“, Marketing Festival Brno 2024, https://2024.marketingfestival.cz/en/lineup/morys.html
 
 ### Kritik und Gegenpositionen
 - Ron Kohavi, Diane Tang, Ya Xu: Trustworthy Online Controlled Experiments. A Practical Guide to A/B Testing. Cambridge University Press, 2020. Das Buch behandelt typische Fehlerquellen von Online-Experimenten, darunter Twyman's Law (Kapitel 3): Auffällig gute Ergebnisse sind meist ein Fehler. Grundlage für blinden Fleck 1.
-- Arunesh Mathur u. a.: Dark Patterns at Scale. Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), Artikel 81, 2019. 1.818 Fälle manipulativer Gestaltung auf rund 11.000 Shops, darunter falsche Knappheit und Countdown-Druck. Grundlage für blinden Fleck 2.
+- Arunesh Mathur u. a.: Dark Patterns at Scale. Findings from a Crawl of 11K Shopping Websites. Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), Artikel 81, 2019. Die Analyse von rund 53.000 Produktseiten aus rund 11.000 Shops fand 1.818 Fälle manipulativer Gestaltung in 15 Typen, darunter Dringlichkeit und Knappheit; 183 Shops setzten dabei auf Täuschung. Grundlage für blinden Fleck 2.
 
 ## Denkmodelle ausführlich
 

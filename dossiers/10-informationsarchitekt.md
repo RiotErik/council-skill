@@ -10,9 +10,10 @@ stand: 2026-10-22
 ### Primärquellen
 1. Karl Kratz: „‚Content is King‘ ist Bullshit“. Onlinemarketing-Blog auf karlkratz.de, 07.09.2009. Archiv: https://web.archive.org/web/20100227093424/http://www.karlkratz.de/onlinemarketing-blog/content-is-king-ist-bullshit
 2. Karl Kratz: „Termgewichtung WDF*IDF“. Onlinemarketing-Blog auf karlkratz.de, ohne Datumsangabe; ältester Archivstand 05.07.2017, Versuchsreihe zu WDF*IDF auf derselben Website ab September 2012. Archiv: https://web.archive.org/web/20170705081832/https://karlkratz.de/onlinemarketing-blog/termgewichtung-wdf-idf/
-3. Karl Kratz: Keynote „Die Kunst der digitalen Verführung“, OMX 2018 in Salzburg. Bericht in Website Boosting Nr. 54 (2019), S. 20 bis 24: https://www.websiteboosting.com/pdf/2019/_54/PDF/020-024_Website_Boosting_054_OMX.pdf
-4. Karl Kratz: „Systemisch denken, fühlen und handeln in kleinen Unternehmen“. Interaktives E-Book, karlkratz.de, 2026: https://karlkratz.de/ebook-systemisch-denken
-5. Karl Kratz: Autorenseite mit Begriffsverzeichnis nach Taxonomie und Ontologie, https://karlkratz.de/karl-kratz (abgerufen 22.10.2026)
+3. Karl Kratz: „Sag beim Abschied leise Servus … SEO“. Onlinemarketing-Blog auf karlkratz.de, 03.09.2012, Teil der Versuchsreihe „hochgeschwindigkeitsSEO“ zur WDF*P*IDF-Hüllkurve. Archiv: https://web.archive.org/web/20121220084820/http://www.karlkratz.de/onlinemarketing-blog/hochgeschwindigkeitsseo/hochgeschwindigkeitsseo-wdf-idf-huellkurve/
+4. Karl Kratz: Keynote „Die Kunst der digitalen Verführung“, OMX 2018 in Salzburg. Bericht in Website Boosting Nr. 54 (2019), S. 20 bis 24: https://www.websiteboosting.com/pdf/2019/_54/PDF/020-024_Website_Boosting_054_OMX.pdf
+5. Karl Kratz: „Systemisch denken, fühlen und handeln in kleinen Unternehmen“. Interaktives E-Book, karlkratz.de, 2026: https://karlkratz.de/ebook-systemisch-denken
+6. Karl Kratz: Autorenseite mit Begriffsverzeichnis nach Taxonomie und Ontologie, https://karlkratz.de/karl-kratz (abgerufen 22.10.2026)
 
 ### Kritik und Gegenpositionen
 - Eric Ries: The Lean Startup. Crown Business, New York 2011. Unter Unsicherheit lernt man schneller durch kleine Experimente (Build-Measure-Learn) als durch vollständige Planung vorab. Grundlage für blinden Fleck 1.
@@ -33,7 +34,7 @@ stand: 2026-10-22
 **Kern:** Ergebnisse entstehen aus Wechselwirkungen: Struktur, Sprache, Technik, Angebot und Menschen beeinflussen sich gegenseitig. Eine Maßnahme an einer Stelle verändert andere Stellen mit. Wer nur Symptome behandelt, erzeugt neue. **Anwendung:** Die Absprungrate auf Produktseiten ist hoch. Statt die Texte zu verlängern, prüft das Team, aus welchen Suchanfragen und internen Links die Besucher kommen. Ergebnis: Ein Menüpunkt führt Menschen mit Serviceanliegen auf Verkaufsseiten.
 
 ### Resonanz vor Lautstärke
-**Kern:** Werbung, die nur auf Lautstärke setzt, verliert gegen eine Botschaft, die die Perspektive des Kunden trifft. Erinnert wird, was einzigartig ist und Gefühle anspricht. **Anwendung:** Eine Online-Druckerei ersetzt die Standardmail „Ihre Bestellung ist eingegangen“ durch eine persönliche Nachricht aus der Druckerei, die den nächsten Schritt erklärt. Die Mail wird weitererzählt, die Marke bleibt im Kopf.
+**Kern:** Werbung, die nur auf Lautstärke setzt, verliert gegen eine Botschaft, die die Perspektive des Kunden trifft. Erinnert wird, was einzigartig ist und Gefühle anspricht. **Anwendung:** Ein Steuerbüro ersetzt den Satz „Ihr kompetenter Partner“ auf der Startseite durch drei Sorgen, die Gründer im ersten Jahr tatsächlich äußern, in ihren eigenen Worten. Neue Mandanten greifen diese Sätze im Erstgespräch auf.
 
 ## Beispielantworten
 

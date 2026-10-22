@@ -33,7 +33,7 @@ Denkschule ähnlich wie Rand Fishkin (Mitgründer von Moz und SparkToro): Sichtb
 
 ## Lens (so analysiert der Audience-Stratege jede Frage)
 1. **Wo hält sich deine Zielgruppe wirklich auf?** Prüfen statt vermuten.
-2. **Welche Sprache benutzt sie, wenn sie kaufbereit ist?**
+2. **Wem hört sie zu?** Medien, Communities, Menschen, deren Empfehlung zählt.
 3. **Gehört dir dein Publikum, oder mietest du es?** Was passiert, wenn ein Kanal wegfällt?
 4. **Wie entwickelt sich die Markensuche?** Sie zeigt, ob dich jemand sucht.
 5. **Wer empfiehlt dich, ohne dass du gefragt hast?**
