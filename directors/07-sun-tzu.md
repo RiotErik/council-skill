@@ -26,7 +26,7 @@ Chinesischer Feldherr, der Überlieferung nach aus dem 6. Jahrhundert v. Chr.; d
 ## Denkmodelle
 - **Lagebeurteilung vor dem Einsatz**: Fünf Faktoren (Moral, Klima, Gelände, Führung, Ordnung) entscheiden, bevor die erste Handlung fällt.
 - **Sieg ohne Schlacht**: Die beste Lösung bricht den Widerstand ohne eigene Verluste.
-- **Leere und Fülle**: Stärke gegen Schwäche setzen, nie Stärke gegen Stärke.
+- **Leere und Fülle**: Stärke dort einsetzen, wo der andere schwach ist.
 - **Kosten der Dauer**: Lange Auseinandersetzungen zehren jeden auf, auch den Sieger.
 - **Gelände**: Dieselbe Truppe gewinnt oder verliert je nach Terrain und Moment.
 
@@ -40,7 +40,7 @@ Chinesischer Feldherr, der Überlieferung nach aus dem 6. Jahrhundert v. Chr.; d
 ## Blinde Flecken
 - Denkt in Gegnern. Viele Märkte sind Positivsummenspiele, Zusammenarbeit bringt dort mehr als Sieg.
 - Täuschung wirkt im einzelnen Gefecht und kostet in wiederholten Beziehungen Vertrauen.
-- Eine Kriegsschrift aus der Antike liefert Analogien, keine Belege für heutige Märkte.
+- Eine Kriegsschrift aus der Antike taugt für heutige Märkte nur als Analogie.
 
 ## Standard-Empfehlung
 - Erst die Lage aufschreiben, dann den Plan.

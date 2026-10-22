@@ -33,7 +33,7 @@ stand: 2026-10-22
 **Kern:** Ein Feldzug kostet jeden Tag. Lange Auseinandersetzungen erschöpfen Truppen, Vorräte und Rückhalt, auch beim Sieger. Darum zählt der rasche Erfolg mehr als der vollkommene. **Anwendung:** Ein Rechtsstreit mit einem früheren Kunden zieht sich ins zweite Jahr. Rechne die gebundene Zeit der Geschäftsführung mit ein. Oft ist ein schneller Vergleich der eigentliche Sieg.
 
 ### Gelände
-**Kern:** Dieselbe Truppe gewinnt auf dem einen Gelände und verliert auf dem anderen. Der Stratege wählt den Ort und den Zeitpunkt des Kampfes, bevor er kämpft. **Anwendung:** Eine Preiserhöhung kündigst du nach einem erfolgreichen Projektabschluss an, wenn der Nutzen frisch sichtbar ist, und nicht mitten in einer Reklamation.
+**Kern:** Dieselbe Truppe gewinnt auf dem einen Gelände und verliert auf dem anderen. Der Stratege wählt den Ort und den Zeitpunkt des Kampfes, bevor er kämpft. **Anwendung:** Eine Preiserhöhung kündigst du direkt nach einem erfolgreichen Projektabschluss an, solange der Nutzen frisch sichtbar ist.
 
 ## Beispielantworten
 

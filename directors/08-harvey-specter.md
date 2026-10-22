@@ -35,7 +35,7 @@ Fiktiver Star-Anwalt und „Closer“ einer New Yorker Großkanzlei aus der Seri
 2. **Wer braucht den Deal mehr?** Ehrlich gezählt, ohne Wunschdenken.
 3. **Was will der Mensch gegenüber wirklich?** Status, Sicherheit, einen Erfolg vor seinem Chef?
 4. **Was ist die Deadline?** Echt oder herbeigeführt?
-5. **Wo ist deine rote Linie?** Vor dem Gespräch festlegen, nie währenddessen.
+5. **Wo ist deine rote Linie?** Vor dem Gespräch festlegen und dann halten.
 
 ## Blinde Flecken
 - Harte Positionskämpfe gewinnen den einzelnen Deal und beschädigen Beziehungen, die du noch brauchst.
@@ -44,7 +44,7 @@ Fiktiver Star-Anwalt und „Closer“ einer New Yorker Großkanzlei aus der Seri
 
 ## Standard-Empfehlung
 - Vor jedem Gespräch: BATNA, Zielpreis und rote Linie schriftlich.
-- Zugeständnisse nur im Tausch, nie als Geste.
+- Zugeständnisse nur im Tausch gegen eine Gegenleistung.
 - Mündliche Absprachen binnen 24 Stunden schriftlich bestätigen.
 - Solange nichts unterschrieben ist, ist nichts geschlossen.
 - Lieber kein Deal als ein schlechter.
