@@ -15,7 +15,7 @@ So läuft eine Sitzung ab:
 1. Du stellst deine Frage in normaler Sprache, zum Beispiel: „Frag das Council: Soll ich diesen Auftrag annehmen?“
 2. Claude wählt die passenden Beiräte und einen Modus.
 3. Jeder Beirat argumentiert aus seiner Sicht, mit eigener Stimme und klarer Position.
-4. Widersprüche bleiben sichtbar und werden benannt.
+4. In Boardroom und Devil's Advocate antworten die Beiräte in einer zweiten Runde direkt aufeinander und stimmen ab. Widersprüche bleiben sichtbar.
 5. Am Ende steht eine Empfehlung: Entscheidung, nächste Schritte, Risiko, offene Fragen. Alles landet als Datei auf deinem Rechner.
 
 ## Beispiel: Ein Großkunde will 20 Prozent Rabatt
@@ -36,12 +36,27 @@ So läuft eine Sitzung ab:
 
 **David Ogilvy**: Ein Rabatt erzählt eine Geschichte über deine Marke. Gib ihm einen Namen und Bedingungen, etwa als Treuerabatt, damit dein Listenpreis seinen Wert behält.
 
+**Runde 2** (Auszug)
+- **Harvey Specter an den Value-Investor**: Du rechnest, als stünde der Rabatt schon fest. Er ist erst ein Angebot, und jede Gegenleistung schiebt deine Marge wieder nach oben.
+- **Der Value-Investor an Sun Tzu**: Den Druck auf Kundenseite herauszufinden ist klug, ersetzt aber keine Rechnung. Auch ein Kunde unter Druck hält dich in der Hand, wenn er mehr als ein Drittel deines Umsatzes ausmacht.
+- **David Ogilvy an Harvey Specter**: Bei den Gegenleistungen bin ich bei dir. Du übersiehst, dass sich ein Rabatt herumspricht: Was dieser Kunde bekommt, verlangen die nächsten auch.
+
+**Abstimmung**
+
+| Beirat | Votum | Zuversicht (1 bis 10) | Entscheidende Bedingung |
+|--------|-------|-----------------------|-------------------------|
+| Der Value-Investor | Ja, wenn … | 6 | Marge bleibt zweistellig, Kunde bei höchstens einem Drittel des Umsatzes |
+| Harvey Specter | Ja, wenn … | 8 | Rabatt nur gegen Vorauszahlung, Mindestvolumen und Referenz |
+| Andrew Grove | Ja, wenn … | 5 | Kennzahl für Neuverhandlung steht im Vertrag |
+| Sun Tzu | Nein | 6 | Die 20 Prozent nie als Ausgangspunkt annehmen, erst Gegenangebot |
+| David Ogilvy | Ja, wenn … | 7 | Rabatt läuft als benannter Treuerabatt, der Listenpreis bleibt |
+
 **Spannungen**
 - Value-Investor und Grove sehen vor allem das Risiko der Abhängigkeit, Specter und Sun Tzu vor allem den Verhandlungsspielraum.
 - Ogilvy will den Listenpreis schützen. Specter würde ihn opfern, wenn die Gegenleistung stimmt.
 
 **Empfehlung**
-- **Decision**: Gegenangebot mit gestaffeltem Rabatt: zehn Prozent im ersten Jahr, bis zu 15 Prozent ab einem Mindestvolumen, gegen Vorauszahlung und Referenz.
+- **Decision**: Gegenangebot mit gestaffeltem Rabatt: zehn Prozent im ersten Jahr, bis zu 15 Prozent ab einem Mindestvolumen, gegen Vorauszahlung und Referenz. Das entspricht dem bedingten Ja der Mehrheit und nimmt Sun Tzus Nein auf: Die Verhandlung startet beim eigenen Gegenangebot.
 - **Action**: Marge nach Rabatt und Umsatzanteil des Kunden ausrechnen. Eigene Alternative festlegen, falls der Kunde ablehnt. Gegenangebot mit Bedingungen formulieren und als Treuerabatt benennen.
 - **Risk**: Der Kunde wächst auf mehr als ein Drittel deines Umsatzes. Lackmustest: Würdest du zu diesen Konditionen auch unterschreiben, wenn drei andere Anfragen auf dem Tisch lägen?
 - **Open**: Wie groß ist der Druck auf Kundenseite, und was kostet ihn ein Wechsel?
@@ -65,16 +80,19 @@ So läuft eine Sitzung ab:
 
 **Warum Archetypen?** Mit Namen sitzen nur historische, vor mehr als zehn Jahren verstorbene oder fiktive Personen am Tisch. Wer heute lebt oder erst vor Kurzem gestorben ist, erscheint als Archetyp: eine erfundene Figur, die eine Denkschule verkörpert und auf ihr Vorbild nur verweist. Archetypen geben sich nie als die reale Person aus und legen ihr keine Worte in den Mund. Aufrufen kannst du sie trotzdem über den Namen des Vorbilds, etwa mit „Frag Buffett“.
 
-## Vier Modi
+## Fünf Modi
 
 | Modus | Besetzung | Wofür |
 |-------|-----------|-------|
 | Stand-up | zwei bis drei Beiräte, knapp | Alltagsfragen |
-| Boardroom | fünf bis sieben Beiräte mit Debatte | Strategische Fragen |
-| 1:1 | ein Beirat im Deep-Dive | Klar fachliche Fragen |
-| Devil's Advocate | zwei Beiräte, die sich reiben | Entscheidungen mit zwei plausiblen Wegen |
+| Boardroom | fünf bis sieben Beiräte, zwei Runden, Abstimmung | Strategische Fragen |
+| 1:1 | ein Beirat im Deep-Dive, mit Dossier | Klar fachliche Fragen |
+| Devil's Advocate | zwei Beiräte, die sich reiben, mit Abstimmung | Entscheidungen mit zwei plausiblen Wegen |
+| Pre-Mortem | drei bis fünf Beiräte | „Ein Jahr später ist es schiefgegangen. Warum?“ Findet Risiken, bevor sie eintreten |
 
 Du kannst den Modus nennen („Boardroom-Session zu …“) oder Claude schlägt einen vor.
+
+**Unabhängige Stimmen**: Schreib „unabhängig“ dazu, und in Claude Code denkt jeder Beirat seine erste Runde in einem eigenen Durchgang, ohne die anderen zu kennen. Das verhindert Einheitsbrei, kostet aber etwa das Drei- bis Siebenfache an Rechenzeit.
 
 ## Installation
 
