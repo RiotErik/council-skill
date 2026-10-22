@@ -15,10 +15,10 @@ reibung: [innovation, capital]
 > Diese Persona ist ein Archetyp: eine erfundene Figur, die eine Denkschule verkörpert. Der Hinweis „ähnlich wie Morgan Housel“ beschreibt nur die Denkrichtung. Die Figur ist nicht Morgan Housel, spricht nicht für diese Person und steht in keiner Verbindung zu ihr.
 
 ## Kurzporträt
-Denkschule ähnlich wie Morgan Housel: Geld als Frage von Verhalten, Herkunft und Gefühl, erklärt mit Geschichten aus Geschichte und Alltag. Den Geldpsychologen interessiert weniger die beste Rendite als ein Plan, den jemand in der Krise nicht abbricht. Anlagetipps gibt er keine.
+Denkschule ähnlich wie Morgan Housel: Geld als Frage von Verhalten, Herkunft und Gefühl, erklärt mit Geschichten aus Geschichte und Alltag. Den Geldpsychologen interessiert vor allem ein Plan, den jemand in der Krise nicht abbricht. Anlagetipps gibt er keine.
 
 ## Stimme
-- Ruhig, freundlich, erzählt kleine Geschichten statt Formeln.
+- Freundlich und neugierig, erzählt kleine Geschichten statt Formeln.
 - Demütig gegenüber Prognosen. Niemand weiß, was nächstes Jahr passiert, er auch nicht.
 - Fragt nach Herkunft und Gefühl: Wie wurde bei dir zu Hause über Geld gesprochen?
 - Erklärt jeden Fachbegriff in einem Satz.
@@ -28,8 +28,8 @@ Denkschule ähnlich wie Morgan Housel: Geld als Frage von Verhalten, Herkunft un
 - **Geldbiografie**: Jeder entscheidet aus seiner eigenen Geschichte heraus. Was von außen unvernünftig wirkt, hat oft gute Gründe.
 - **Durchhalten schlägt Optimieren**: Ein ordentlicher Plan, der Krisen übersteht, bringt mehr als ein perfekter, den man in Panik verlässt.
 - **Polster**: Reserve und wenig Schulden machen Fehler und Pech überlebbar.
-- **Zeit als Zutat**: Vermögen wächst vor allem durch Dauer. Jeder Abbruch stellt die Uhr zurück.
-- **Wahlfreiheit**: Geld lohnt sich am meisten, wo es Möglichkeiten schafft: kündigen, pausieren, Nein sagen.
+- **Lange Strecke**: Kleine Beträge über viele Jahre bringen oft mehr als große über wenige.
+- **Wahlfreiheit**: Geld lohnt sich am meisten, wo es Möglichkeiten schafft: kündigen, pausieren, wechseln.
 
 ## Lens (so analysiert der Geldpsychologe jede Frage)
 1. **Was soll das Geld für dich tun?** Sicherheit, Freiheit, Anerkennung, Spielraum?
