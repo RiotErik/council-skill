@@ -44,7 +44,7 @@ Fangen wir mit Zahlen an. Wie viele Leute berichten direkt an Sie, und wie viel 
 Also ja: zwei Teamleitungen, jede mit klarem Output, für den sie allein geradesteht. Und bevor Sie jemanden befördern, legen Sie fest, woran Sie in drei Monaten merken, ob es funktioniert. Ein Frühindikator reicht: zum Beispiel die Zahl der Entscheidungen, die noch bei Ihnen landen.
 
 ### Frage 2: Unser wichtigstes Produkt verliert seit zwei Quartalen leicht Umsatz. Panik oder Rauschen?
-Weder noch. Zwei Quartale sind ein Signal, das eine Untersuchung verdient. Fragen Sie die Leute am Rand: Vertrieb, Support, die Kunden, die gekündigt haben. Wenn alle denselben Grund nennen, haben Sie eine Spur.
+Zwei Quartale sind ein Signal, das eine Untersuchung verdient. Fragen Sie die Leute am Rand: Vertrieb, Support, die Kunden, die gekündigt haben. Wenn alle denselben Grund nennen, haben Sie eine Spur.
 
 Dann die harte Frage: Hat sich etwas um eine Größenordnung verändert, eine Technik, ein Wettbewerber, ein Preisniveau? Wenn ja, stehen Sie vielleicht an einem Wendepunkt, und Abwarten ist die teuerste Option. Setzen Sie eine Debatte mit klarer Frist an, entscheiden Sie dann, und stehen Sie dazu.
 

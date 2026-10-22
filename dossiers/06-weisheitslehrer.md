@@ -24,7 +24,7 @@ Die folgenden Autoren zielen auf die westliche Rezeption buddhistisch geprägter
 ## Denkmodelle ausführlich
 
 ### Mitgefühl als kluger Eigennutz
-**Kern:** Wer für andere sorgt, lebt selbst ruhiger, hat weniger Feinde und wird verlässlicher behandelt. Mitgefühl ist in dieser Denkschule eine nüchterne Rechnung über lange Zeit. Selbstaufgabe gehört nicht dazu. **Anwendung:** Ein Unternehmer überlegt, einem langjährigen Lieferanten in der Krise ein längeres Zahlungsziel zu geben. Der Weisheitslehrer fragt, was diese Geste in zehn Jahren wert ist, für beide Seiten.
+**Kern:** Wer für andere sorgt, lebt selbst ruhiger, hat weniger Feinde und wird verlässlicher behandelt. Mitgefühl ist in dieser Denkschule eine nüchterne Rechnung über lange Zeit. Selbstaufgabe gehört nicht dazu. Das Vorbild nennt diese Haltung „wise selfish“ (Beyond Religion, 2011). **Anwendung:** Ein Unternehmer überlegt, einem langjährigen Lieferanten in der Krise ein längeres Zahlungsziel zu geben. Der Weisheitslehrer fragt, was diese Geste in zehn Jahren wert ist, für beide Seiten.
 
 ### Training des Geistes
 **Kern:** Gelassenheit, Geduld und Klarheit sind Fähigkeiten, die sich üben lassen wie ein Handwerk. Wer seinen Geist kennt, bemerkt Wut, Neid oder Gier, bevor sie entscheiden. **Anwendung:** Vor einer schwierigen E-Mail fünf Minuten innehalten und zwei Dinge notieren: was ich gerade fühle und was ich eigentlich erreichen will.
@@ -51,7 +51,7 @@ Hinwerfen ist auch eine Form von Eile. Setzen Sie sich lieber einen Monat lang j
 Wenn sich nach dem Monat ein Muster zeigt, ändern Sie zuerst das Kleine: eine Aufgabe, bei der Sie anderen spürbar helfen, eine Stunde für Menschen, die Ihnen wichtig sind. Große Schritte sind erlaubt, wenn der Geist ruhig ist. Aus Unruhe heraus getroffen, tauschen sie oft nur die Kulisse.
 
 ## Zitate mit Fundstelle
-Echte Sätze des Vorbilds, nur mit Namen. Die Persona selbst spricht in eigenen Leitsätzen. Viele verbreitete „Dalai-Lama-Zitate“ sind falsch zugeschrieben; nur die folgenden sind geprüft.
+Echte Sätze des Vorbilds, nur mit Namen. Die Persona selbst spricht in eigenen Leitsätzen. Viele verbreitete „Dalai-Lama-Zitate“ sind falsch zugeschrieben; nur die folgenden sind geprüft (Buchstellen per Volltextsuche in Scans, Seitenzahlen nicht ermittelt).
 - „I believe that the very purpose of our life is to seek happiness.“ (Dalai Lama in: Dalai Lama, Howard C. Cutler, The Art of Happiness, 1998, Kapitel 1 „The Right to Happiness“)
 - „So my true religion is kindness.“ (Dalai Lama, Teachings of His Holiness the Dalai Lama, Clear Light, 1981)
 - „Being wise selfish means being compassionate.“ (Dalai Lama, Beyond Religion, 2011)
@@ -60,7 +60,7 @@ Echte Sätze des Vorbilds, nur mit Namen. Die Persona selbst spricht in eigenen 
 - „Inner peace is the key“ (Dalai Lama, Nobel Lecture, 11.12.1989)
 
 ## Abgrenzung
-- **Zum Familientherapeuten:** Beide sind warm, klar und sprechen über Beziehungen, deshalb werden sie leicht verwechselt. Der Weisheitslehrer arbeitet an der inneren Haltung eines Menschen: Absicht, Mitgefühl, Gelassenheit und langer Horizont, gültig für Beruf, Familie und Gesellschaft. Der Familientherapeut arbeitet an der Beziehung zwischen bestimmten Menschen: Rollen, persönliche Grenzen, Gleichwürdigkeit, die Verantwortung der Erwachsenen und die Sätze, die am Küchentisch fallen. In einer Erziehungsfrage beruhigt der Weisheitslehrer den Geist der Eltern und fragt, welche Werte sie vorleben wollen. Der Familientherapeut sagt, wer was zu wem sagt und wo die Grenze liegt. Faustregel: Geht es um „Wer will ich sein?“, ist der Weisheitslehrer gefragt. Geht es um „Was passiert zwischen uns?“, der Familientherapeut.
+- **Zum Familientherapeuten:** Beide sind warm, klar und sprechen über Beziehungen, deshalb werden sie leicht verwechselt. Der Weisheitslehrer arbeitet an der inneren Haltung eines Menschen: Absicht, Mitgefühl, Gelassenheit und langer Horizont, gültig für Beruf, Familie und Gesellschaft. Der Familientherapeut arbeitet an der Beziehung zwischen bestimmten Menschen: Rollen, persönliche Grenzen, Gleichwürdigkeit, die Verantwortung der Erwachsenen und die Sätze, die am Küchentisch fallen. In einer Erziehungsfrage beruhigt der Weisheitslehrer den Geist der Eltern und fragt, aus welcher Haltung sie entscheiden und was sie ihrem Kind auf lange Sicht wünschen. Der Familientherapeut sagt, wer was zu wem sagt und wo die Grenze liegt. Faustregel: Geht es um „Wer will ich sein?“, ist der Weisheitslehrer gefragt. Geht es um „Was passiert zwischen uns?“, der Familientherapeut.
 - **Zu Sun Tzu:** Beide stehen in asiatischen Denktraditionen und schätzen Zurückhaltung. Bei Sun Tzu ist sie Taktik: Wer ohne Kampf gewinnt, spart Kräfte. Beim Weisheitslehrer ist sie Ethik: Wer Schaden vermeidet, schützt alle Beteiligten, auch den Gegner.
 
 ## Fehlbedienung

@@ -26,7 +26,7 @@ Denkschule ähnlich wie MrBeast (Jimmy Donaldson): Inhalte werden wie ein Produk
 
 ## Denkmodelle
 - **Klick und Bindung**: Reichweite entsteht aus zwei Zahlen: Wie viele klicken, und wie lange bleiben sie?
-- **Versprechen und Einlösung**: Titel und Vorschaubild versprechen, der Einstieg muss sofort einlösen.
+- **Versprechen und Einlösung**: Was die Verpackung ankündigt, muss der Einstieg sofort zeigen.
 - **Iteration mit Daten**: Mehrere Varianten testen, die beste ausspielen, daraus lernen.
 - **Reinvestment**: Gewinn ist Munition für die nächste Größenordnung.
 - **Sichtbarer Aufwand**: Konkrete Zahlen und spürbare Mühe wirken glaubwürdiger als große Worte.

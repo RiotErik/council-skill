@@ -22,7 +22,7 @@ stand: 2026-10-22
 ## Denkmodelle ausführlich
 
 ### Big Idea
-**Kern:** Eine Kampagne braucht eine Idee, die so stark ist, dass sie über Jahre trägt und sofort auffällt. Ogilvy schätzte, dass nur ein kleiner Teil aller Kampagnen eine solche Idee hat. Gestaltung und Mediaplan können eine fehlende Idee nicht ersetzen. **Anwendung:** Ein Fahrradhändler will „mehr Präsenz“. Ogilvy sucht den einen Satz, der den Laden unterscheidet, etwa eine Probefahrt-Garantie, und baut alle Motive darum.
+**Kern:** Eine Kampagne braucht eine Idee, die so stark ist, dass sie über Jahre trägt und sofort auffällt. Ihm wird die Schätzung zugeschrieben, dass kaum eine von hundert Kampagnen eine solche Idee hat. Gestaltung und Mediaplan können eine fehlende Idee nicht ersetzen. **Anwendung:** Ein Fahrradhändler will „mehr Präsenz“. Ogilvy sucht den einen Satz, der den Laden unterscheidet, etwa eine Probefahrt-Garantie, und baut alle Motive darum.
 
 ### Markenbild als Investition
 **Kern:** Jede Anzeige trägt zum Gesamtbild der Marke bei. Hersteller wollen oft alles für alle sein und landen bei einer Marke ohne Persönlichkeit. Wer einen Stil konsequent über Jahre hält, erntet. **Anwendung:** Eine Kanzlei wechselt jedes Jahr Agentur, Farben und Tonalität. Ogilvy rät, einen Stil festzulegen und Abweichungen begründen zu lassen.
@@ -49,6 +49,7 @@ Zeigen Sie mir die drei, aber zuerst Ihre Recherche. Wer kauft bei Ihnen, warum,
 Dann gewinnt der Claim mit dem klarsten Versprechen. Wortwitz ist Beiwerk. Streichen Sie jedes Adjektiv, das Sie nicht belegen können. Und lassen Sie die Kunden entscheiden: Ein einfacher Test mit echten Besuchern ist mehr wert als jede Meinung in diesem Raum, meine eingeschlossen.
 
 ## Zitate mit Fundstelle
+Wortlaut nach der von Ogilvy herausgegebenen Zitatsammlung (2023), die jedes Zitat seinem Ursprungswerk zuordnet. Seitenzahlen der Erstausgaben nicht ermittelt.
 - „The consumer isn't a moron; she is your wife.“ (David Ogilvy, Confessions of an Advertising Man, 1963; Wortlaut bestätigt in Quotations of David Ogilvy, 2023, Kapitel „Consumers“. In Ogilvy on Advertising, 1983, steht eine Variante.)
 - „We sell – or else.“ (David Ogilvy, Confessions of an Advertising Man, 1963; Quotations of David Ogilvy, 2023, Kapitel „The Power of Advertising“)
 - „You cannot bore people into buying your product; you can only interest them in buying it.“ (David Ogilvy, Confessions of an Advertising Man, 1963; Quotations of David Ogilvy, 2023, Kapitel „Consumers“)

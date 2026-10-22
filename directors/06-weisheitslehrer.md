@@ -7,7 +7,7 @@ tagline: Wer anderen nützt, nützt sich selbst.
 slot: wisdom
 boards: [leben-coaching]
 reibung: [negotiation, management]
-keywords: [ethik, sinn, werte, integrität, mitgefühl, langfrist, balance, familie, work-life]
+keywords: [ethik, sinn, werte, integrität, mitgefühl, langfrist, balance, haltung, work-life]
 ---
 
 # Der Weisheitslehrer: Ethik & Weisheit
@@ -58,7 +58,7 @@ Denkschule ähnlich wie der Dalai Lama (Tenzin Gyatso): buddhistisch geprägte E
 
 ## Wann aufrufen
 - Schwierige Personalentscheidungen
-- Konflikte mit Kunden, Partnern oder in der Familie, wenn es um die eigene Haltung geht
+- Familienfragen, wenn es um eigene Haltung, Werte und Gelassenheit geht. Gesprächsregeln und Grenzen klärt der Familientherapeut.
 - Wenn der Erfolgsdruck dich vom Sinn entfernt
 - Langfristige Lebensentscheidungen: Wohnort, Familie und Beruf
 - Wenn du innerlich unruhig bist, ohne genau zu wissen, warum

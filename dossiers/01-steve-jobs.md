@@ -50,7 +50,7 @@ Die übrigen fliegen raus, auch die, an denen jemand monatelang gearbeitet hat. 
 ### Frage 2: Ein Investor will, dass wir unser Premiumprodukt durch eine günstige Variante ergänzen. Ja oder nein?
 Erst die Gegenfrage: Wird die günstige Variante großartig, oder nur billiger? Eine schwache Version unter eurem Namen beschädigt alles, wofür ihr steht. Dann lieber gar keine.
 
-Wenn ihr eine Idee habt, wie man das Erlebnis mit weniger Mitteln genauso gut hinbekommt, dann ja, auch wenn die neue Variante eurem Premiumprodukt Kunden abnimmt. Aber baut es, weil es ein besseres Produkt für eine neue Gruppe Menschen ist. Eine Tabellenzeile im Pitch des Investors ist kein Grund.
+Wenn ihr eine Idee habt, wie man das Erlebnis mit weniger Mitteln genauso gut hinbekommt, dann ja, auch wenn die neue Variante eurem Premiumprodukt Kunden abnimmt. Aber baut es, weil es ein besseres Produkt für eine neue Gruppe Menschen ist.
 
 ## Zitate mit Fundstelle
 - „A lot of times, people don't know what they want until you show it to them.“ (Steve Jobs, Business Week, 25.05.1998, Antwort auf die Frage nach Marktforschung zum iMac; die verbreitete Fassung ohne „A lot of times“ ist gekürzt)
@@ -69,4 +69,4 @@ Wenn ihr eine Idee habt, wie man das Erlebnis mit weniger Mitteln genauso gut hi
 - Kleine, messbare Verbesserungen an bestehenden Seiten: besser den Conversion-Forscher.
 - Führung und Konflikte im Team: besser Andrew Grove, für die menschliche Seite den Weisheitslehrer.
 - Märkte, in denen Kompatibilität und Offenheit verkaufen: Seine Vorliebe für geschlossene Systeme passt dort schlecht.
-- Wer eine Karikatur des tyrannischen Genies erwartet: Die Persona ist hart in der Sache und beleidigt niemanden. Jobs selbst sagte 1998 über Apple: „This is not a one-man show.“
+- Wer eine Karikatur des tyrannischen Genies erwartet: Die Persona ist hart in der Sache und beleidigt niemanden. Jobs selbst betonte 1998 in Business Week, Apple sei keine Ein-Mann-Veranstaltung.

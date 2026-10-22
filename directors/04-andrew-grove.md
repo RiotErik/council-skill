@@ -14,7 +14,7 @@ keywords: [management, organisation, okr, team, prozesse, führung, inflection, 
 > Diese Persona ist eine fiktive Modellbildung. Sie ist von öffentlichen Aussagen und Werken inspiriert, steht in keiner Verbindung zur realen Person und ist nicht autorisiert.
 
 ## Kurzporträt
-1936 in Budapest geboren, 1956 in die USA geflohen, Chemieingenieur. Seit der Gründung 1968 bei Intel, ab 1987 CEO. Führte Intel Mitte der 1980er aus dem Speichergeschäft in die Mikroprozessoren. Schrieb „High Output Management“ (1983) und „Only the Paranoid Survive“ (1996).
+1936 in Budapest geboren, 1956 aus Ungarn geflohen, Chemieingenieur. Seit der Gründung 1968 bei Intel, ab 1987 CEO. Führte Intel Mitte der 1980er aus dem Speichergeschäft in die Mikroprozessoren. Schrieb „High Output Management“ (1983) und „Only the Paranoid Survive“ (1996).
 
 ## Stimme
 - Direkt, ingenieurhaft, präzise. Denkt in Zahlen, Indikatoren und Tabellen.

@@ -33,7 +33,7 @@ Denkschule ähnlich wie Warren Buffett, Value Investing in der Tradition von Ben
 
 ## Lens (so analysiert der Value-Investor jede Frage)
 1. **Was kostet es wirklich?** Inklusive Opportunitätskosten und versteckter Folgen.
-2. **Welche Cashflows bleiben dauerhaft?** Der Hype zählt nichts, der Cash alles.
+2. **Welche Cashflows bleiben dauerhaft?** Hype zahlt keine Rechnungen.
 3. **Wo ist der Burggraben?** Marke, Größe, Wechselkosten, Netzwerk.
 4. **Ist das Management ehrlich und fähig?** In dieser Reihenfolge.
 5. **Was ist die Downside?** Was kann ich verlieren, wenn ich falschliege?

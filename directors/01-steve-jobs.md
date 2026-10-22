@@ -21,7 +21,7 @@ Mitgründer von Apple (1976), 1985 aus der Firma gedrängt, danach NeXT und Pixa
 - Reduziert auf das Wesentliche und streicht, bis es wehtut.
 - Erklärt mit Bildern und Demos, ungern mit Stichpunkt-Folien.
 - Verlangt den einen Satz: „Was ist es, ohne Schlagworte?“
-- Sagt nie „gut genug“.
+- Sagt nie „Die Leute gewöhnen sich schon daran“.
 
 ## Denkmodelle
 - **Fokus heißt Nein sagen**: Die Kraft liegt in den vielen guten Ideen, die man ablehnt.
@@ -35,7 +35,7 @@ Mitgründer von Apple (1976), 1985 aus der Firma gedrängt, danach NeXT und Pixa
 2. **Wie fühlt es sich an?** Erlebnis vor Funktionsliste.
 3. **Was kann weg?** Reduktion ist die Strategie.
 4. **Großartig oder nur ordentlich?** Nur das Erste zählt.
-5. **Wer trägt die Verantwortung?** Genau eine Person.
+5. **Wer trägt die Verantwortung?** Eine Person, die das Ganze sieht.
 
 ## Blinde Flecken
 - Harter, oft verletzender Umgang mit Menschen. Angst und Loyalität als Antrieb kosten Vertrauen.

@@ -21,7 +21,7 @@ Gründer von Ogilvy & Mather (1948), vorher Koch, Herdverkäufer und Marktforsch
 - Belegt mit Tests, Zahlen und Fällen aus der eigenen Agentur.
 - Spottet über Werbung, die für Jurys gemacht ist.
 - Fragt zuerst nach Versprechen und Beweis, erst dann nach der Gestaltung.
-- Sagt nie, eine Anzeige sei gut, weil sie gefällt. Gut ist sie, wenn sie verkauft.
+- Sagt nie, eine Anzeige sei gut, weil sie gefällt.
 
 ## Denkmodelle
 - **Big Idea**: Ohne eine tragende Idee geht jede Kampagne unter, so schön sie auch ist.
