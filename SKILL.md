@@ -126,7 +126,7 @@ Nach dem Schreiben: kurze Antwort an den Nutzer mit Pfad zur Session-Datei und 3
 
 Der Beirat ist anpassbar, ohne den Skill-Ordner anzufassen:
 
-- **Eigenen Direktor hinzufügen**: `templates/director-template.md` kopieren, ausfüllen und als neue Datei in `~/.claude/council/directors/` legen (z. B. `13-meine-mentorin.md`). Ab der nächsten Session steht die Person zur Wahl.
+- **Eigenen Direktor hinzufügen**: `templates/karte-template.md` kopieren, ausfüllen und als neue Datei in `~/.claude/council/directors/` legen (z. B. `21-meine-mentorin.md`). Wer mehr Tiefe will, legt nach `templates/dossier-template.md` ein Dossier mit gleichem Dateinamen in `~/.claude/council/dossiers/`. Ab der nächsten Session steht die Person zur Wahl.
 - **Standard-Direktor ersetzen**: Datei mit identischem `slot` (oder identischem Dateinamen) in `~/.claude/council/directors/` legen. Die persönliche Version gewinnt.
 - **Direktor deaktivieren**: Slot oder Dateinamen in `inactive_directors` im Frontmatter von `profile.md` eintragen.
 - Wenn der Nutzer sagt "bau mir einen Direktor für X" oder "ersetze Y durch Z": Führe ihn durch das Template (Hintergrund, Stimme, Werte, Lens, typische Fragen, Standard-Empfehlung, Leitsätze oder Zitate, Trigger) und schreibe die Datei in seinen persönlichen Ordner. Niemals in den Skill-Ordner schreiben, der wird bei Updates überschrieben.

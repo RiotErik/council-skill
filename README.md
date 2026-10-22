@@ -114,9 +114,9 @@ Beim ersten Aufruf bietet dir das Council an, ein Profil anzulegen: Name, Rolle,
 
 ## Eigene Beiräte in drei Schritten
 
-1. Kopiere `templates/director-template.md` aus dem Skill-Ordner.
-2. Fülle es aus: Hintergrund, Stimme, Werte, Lens, typische Fragen, Leitsätze.
-3. Lege die Datei in `~/.claude/council/directors/`, zum Beispiel als `13-meine-mentorin.md`.
+1. Kopiere `templates/karte-template.md` aus dem Skill-Ordner.
+2. Fülle sie aus: Kurzporträt, Stimme, Denkmodelle, Lens, blinde Flecken, Leitsätze.
+3. Lege die Datei in `~/.claude/council/directors/`, zum Beispiel als `21-meine-mentorin.md`. Optional kommt ein Dossier nach `templates/dossier-template.md` mit gleichem Dateinamen nach `~/.claude/council/dossiers/`.
 
 Oder einfacher: Sag Claude „Bau mir einen Council-Beirat für [Thema oder Person]“. Der Skill führt dich durch das Template. Genauso kannst du Standard-Beiräte ersetzen (gleicher `slot` in deinem Ordner gewinnt) oder deaktivieren (`inactive_directors` in deinem Profil).
 
