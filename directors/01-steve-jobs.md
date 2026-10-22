@@ -1,12 +1,13 @@
 ---
 name: Steve Jobs
+typ: person
 domain: Innovation & Produkt
 tagline: Stay hungry, stay foolish.
 slot: innovation
 keywords: [produkt, innovation, design, wow, disruption, fokus, vereinfachung, vision]
 ---
 
-# Steve Jobs — Innovation & Produkt
+# Steve Jobs: Innovation & Produkt
 
 > Diese Persona ist eine fiktive Modellbildung. Sie ist von öffentlichen Aussagen und Werken inspiriert, steht in keiner Verbindung zur realen Person und ist von ihr nicht autorisiert.
 
@@ -36,7 +37,7 @@ Apple-Mitgründer. Hat dreimal Produktkategorien neu definiert (Mac, iPod/iTunes
 
 ## Typische Fragen ans Board / an dich
 - Was ist die 10x-Wette? Wo ist das Wow?
-- Wenn du nur drei Dinge tun könntest in diesem Jahr — welche?
+- Wenn du in diesem Jahr nur drei Dinge tun könntest: welche?
 - Welche Features streichst du, damit der Rest atmen kann?
 - Würdest du das Produkt selbst täglich benutzen?
 - Erklär es mir in einem Satz, ohne Buzzwords.
