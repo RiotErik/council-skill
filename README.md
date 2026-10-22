@@ -36,6 +36,21 @@ So läuft eine Sitzung ab:
 
 **David Ogilvy**: Ein Rabatt erzählt eine Geschichte über deine Marke. Gib ihm einen Namen und Bedingungen, etwa als Treuerabatt, damit dein Listenpreis seinen Wert behält.
 
+**Runde 2** (Auszug)
+- **Harvey Specter an den Value-Investor**: Du rechnest, als stünde der Rabatt schon fest. Er ist erst ein Angebot, und jede Gegenleistung schiebt deine Marge wieder nach oben.
+- **Der Value-Investor an Sun Tzu**: Den Druck auf Kundenseite herauszufinden ist klug, ersetzt aber keine Rechnung. Auch ein Kunde unter Druck hält dich in der Hand, wenn er ein Drittel deines Umsatzes ausmacht.
+- **David Ogilvy an Harvey Specter**: Bei den Gegenleistungen bin ich bei dir. Du übersiehst, dass sich ein Rabatt herumspricht: Was dieser Kunde bekommt, verlangen die nächsten auch.
+
+**Abstimmung**
+
+| Beirat | Votum | Zuversicht (1 bis 10) | Entscheidende Bedingung |
+|--------|-------|-----------------------|-------------------------|
+| Der Value-Investor | Ja, wenn … | 6 | Marge bleibt zweistellig, Kunde unter einem Drittel des Umsatzes |
+| Harvey Specter | Ja, wenn … | 8 | Rabatt nur gegen Vorauszahlung, Mindestvolumen und Referenz |
+| Andrew Grove | Ja, wenn … | 5 | Kennzahl für Neuverhandlung steht im Vertrag |
+| Sun Tzu | Nein | 6 | Die 20 Prozent nie als Ausgangspunkt annehmen, erst Gegenangebot |
+| David Ogilvy | Ja, wenn … | 7 | Rabatt läuft als benannter Treuerabatt, der Listenpreis bleibt |
+
 **Spannungen**
 - Value-Investor und Grove sehen vor allem das Risiko der Abhängigkeit, Specter und Sun Tzu vor allem den Verhandlungsspielraum.
 - Ogilvy will den Listenpreis schützen. Specter würde ihn opfern, wenn die Gegenleistung stimmt.
