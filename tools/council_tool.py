@@ -27,7 +27,7 @@ DOSSIER_SECTIONS = [
     "## Zitate mit Fundstelle", "## Abgrenzung", "## Fehlbedienung",
 ]
 CARD_WARN, CARD_MAX = 3500, 4500
-EM_DASH = "—"
+EM_DASH = "\u2014"
 # Wortstämme mit Umlaut. Geprüft wird auf ihre Umschrift (ä zu ae usw.).
 UMLAUT_STEMS = [
     "für", "über", "möcht", "könn", "wär", "grüß", "heiß", "schön", "spät", "führ",
@@ -50,6 +50,10 @@ TRANSLIT_RE = re.compile(
     r"\b\w*(?:" + "|".join(_transliterate(s) for s in UMLAUT_STEMS) + r")\w*\b", re.IGNORECASE
 )
 CONTRAST_RE = re.compile(r"\bnicht\b[^.!?\n]{0,120}\bsondern\b", re.IGNORECASE)
+URL_RE = re.compile(r"<?https?://[^\s>)]+>?")
+# Quellenangaben und wörtliche Zitate behalten den Originalwortlaut. Darin werden
+# Umlaut-Umschrift und Satzbau nicht geprüft, Geviertstriche schon.
+VERBATIM_SECTIONS = ("## Quellen", "## Zitate")
 
 
 class Report:
@@ -70,6 +74,12 @@ def as_list(value) -> list[str]:
     return [value] if value else []
 
 
+def _unquote(value: str) -> str:
+    if len(value) >= 2 and value[0] == value[-1] and value[0] in "\"'":
+        return value[1:-1]
+    return value
+
+
 def parse_frontmatter(text: str) -> tuple[dict | None, str]:
     match = re.match(r"^---\n(.*?)\n---\n", text, re.DOTALL)
     if not match:
@@ -82,9 +92,9 @@ def parse_frontmatter(text: str) -> tuple[dict | None, str]:
         key, value = stripped.split(":", 1)
         value = re.split(r"\s+#\s", value.strip())[0].strip()
         if value.startswith("[") and value.endswith("]"):
-            data[key.strip()] = [item.strip() for item in value[1:-1].split(",") if item.strip()]
+            data[key.strip()] = [_unquote(item.strip()) for item in value[1:-1].split(",") if item.strip()]
         else:
-            data[key.strip()] = value
+            data[key.strip()] = _unquote(value)
     return data, text[match.end():]
 
 
@@ -107,13 +117,19 @@ def section_text(body: str, heading: str) -> str:
 
 
 def check_text_rules(rel: str, text: str, report: Report) -> None:
+    verbatim = False
     for number, line in enumerate(text.splitlines(), start=1):
         where = f"{rel}:{number}"
+        if line.startswith("## "):
+            verbatim = line.startswith(VERBATIM_SECTIONS)
         if EM_DASH in line:
             report.error(where, "Geviertstrich gefunden")
-        for match in TRANSLIT_RE.finditer(line):
+        if verbatim:
+            continue
+        prose = URL_RE.sub(" ", line)
+        for match in TRANSLIT_RE.finditer(prose):
             report.error(where, f"Umlaut-Umschrift „{match.group(0)}“")
-        if CONTRAST_RE.search(line):
+        if CONTRAST_RE.search(prose):
             report.error(where, "Satzbau „nicht …, sondern …“")
 
 
@@ -221,6 +237,9 @@ def run_check(root: Path, strict: bool, only: set[str] | None) -> Report:
             check_dossier(dossier.relative_to(root).as_posix(), dossier.read_text(encoding="utf-8"), report)
         elif in_scope:
             report.error(rel, f"Dossier dossiers/{card.name} fehlt")
+    for slot in sorted(only or []):
+        if slot not in slots:
+            report.error("--nur", f"Slot „{slot}“ aus --nur gehört zu keiner Karte")
     for rel, front in strict_fronts.items():
         for other in as_list(front.get("reibung")):
             if other not in slots:
