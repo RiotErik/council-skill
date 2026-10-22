@@ -1,5 +1,27 @@
 # Changelog
 
+## 2.2.0 (2026-10-22)
+
+Echte Debatte.
+
+- Boardroom und Devil's Advocate mit zweiter Runde: Jeder Beirat antwortet namentlich einem anderen und benennt einen Widerspruch oder blinden Fleck.
+- Abstimmung als Tabelle mit Votum, Zuversicht von 1 bis 10 und entscheidender Bedingung.
+- Neuer Modus Pre-Mortem: „Ein Jahr später ist es schiefgegangen. Warum?“ mit Risikotabelle, Frühwarnzeichen und Gegenmaßnahmen.
+- Unabhängige Stimmen auf Zuruf („unabhängig“): In Claude Code schreibt jeder Beirat seine erste Runde in einem eigenen Durchgang. Familienangaben aus dem Profil gehen nur an Beiräte mit Board `leben-coaching`. Ohne Subagents läuft der normale Ablauf mit Hinweis.
+- Klarstellungen: Aufruf über den Namen einer Persona, 1:1 ohne Dossier, Abstimmung bei Wie-Fragen, persönliche Karten ohne `typ`.
+
+## 2.1.0 (2026-10-22)
+
+Tiefere Beiräte.
+
+- Alle zwölf Beiräte im neuen Format: kompakte Karte für jede Session und ausführliches Dossier (Quellen, Denkmodelle, Beispielantworten, Abgrenzung) für das 1:1. Zitate nur mit Fundstelle.
+- Inhaltsverzeichnis `roster.md` mit Boards (`strategie-business`, `leben-coaching`, `entscheiden-denken`, `führung-zeit-geld`) und Reibungspartnern; neue Frontmatter-Felder `boards` und `reibung`.
+- Dossier-Regel: Ein Dossier gilt nur zusammen mit seiner eigenen Karte. Wer einen Beirat persönlich ersetzt, bekommt dessen gebündeltes Dossier nicht untergeschoben.
+- Neue Vorlagen `templates/karte-template.md` und `templates/dossier-template.md` ersetzen `director-template.md`.
+- Prüfwerkzeug `tools/council_tool.py` für Format, Schreibregeln und Verzeichnis, mit Tests.
+
+**Bitte beachten**: Eigene Beiräte im älteren Format funktionieren weiter. Wer bisher `director-template.md` kopiert hat, nimmt künftig `karte-template.md`.
+
 ## 2.0.0 (2026-10-22)
 
 Archetypen und neuer Auftritt.

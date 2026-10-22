@@ -162,6 +162,6 @@ git -C ~/.claude/skills/council fetch && git -C ~/.claude/skills/council reset -
 
 ## Version und Lizenz
 
-Aktuelle Version: 2.0.0, siehe [CHANGELOG.md](CHANGELOG.md).
+Aktuelle Version: 2.2.0, siehe [CHANGELOG.md](CHANGELOG.md).
 
 MIT-Lizenz, siehe [LICENSE](LICENSE). Erstellt von Erik Lichtenecker, Ecklicht Consulting · [ecklicht.de/ki](https://ecklicht.de/ki/)

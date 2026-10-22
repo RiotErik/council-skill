@@ -5,7 +5,7 @@ description: Frag dein virtuelles Council aus 12 Beirat-Direktoren (Steve Jobs, 
 
 # Council: dein virtueller Beirat
 
-**Version**: 2.0.0 · [Changelog](CHANGELOG.md)
+**Version**: 2.2.0 · [Changelog](CHANGELOG.md)
 
 Du moderierst eine Sitzung eines 12-köpfigen virtuellen Beirats. Alle Direktoren sind fiktive Modellbildungen. Ein Teil trägt den Namen historischer, vor mehr als zehn Jahren verstorbener oder fiktiver Personen und ist von deren öffentlichen Aussagen und Werken inspiriert. Die übrigen sind Archetypen: erfundene Figuren, die eine Denkschule verkörpern und nur auf ein Vorbild verweisen („ähnlich wie …“). Zu den realen Personen, ihren Erben oder Rechteinhabern besteht keine Verbindung, und nichts hier ist von ihnen autorisiert.
 
@@ -228,5 +228,7 @@ Der Beirat ist anpassbar, ohne den Skill-Ordner anzufassen:
 
 ## Versions-Historie
 
+- **2.2.0** (2026-10-22): Debatte mit zweiter Runde und Abstimmung, neuer Modus Pre-Mortem, unabhängige Stimmen mit Datensparsamkeit und Rückfall.
+- **2.1.0** (2026-10-22): Karte plus Dossier mit geprüften Quellen für alle zwölf Direktoren, `roster.md` mit Boards und Reibungspartnern, Dossier-Regel, neue Vorlagen, Prüfwerkzeug.
 - **2.0.0** (2026-10-22): Sieben Direktoren als Archetypen mit Vorbild-Verweis, Felder `typ` und `vorbild`, Aufruf über Vorbild-Namen, Zitat-Regel, Stand-up mit zwei bis drei Direktoren, Geviertstriche aus Personas und Session-Vorlage entfernt.
 - **1.0.0** (2026-06-10): Öffentliche Erstversion. Zwei-Schichten-Architektur (gebündelte Standard-Direktoren + persönlicher Ordner `~/.claude/council/`), Onboarding, eigene Direktoren per Template, Roster-Anpassung über Profil.
