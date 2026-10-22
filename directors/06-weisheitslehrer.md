@@ -5,6 +5,8 @@ vorbild: der Dalai Lama
 domain: Ethik, Weisheit & langer Horizont
 tagline: Wer anderen nützt, nützt sich selbst.
 slot: wisdom
+boards: [leben-coaching]
+reibung: [negotiation, management]
 keywords: [ethik, sinn, werte, integrität, mitgefühl, langfrist, balance, familie, work-life]
 ---
 

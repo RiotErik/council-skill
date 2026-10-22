@@ -4,6 +4,8 @@ typ: person
 domain: Management, Organisation & Strategische Wendepunkte
 tagline: Only the paranoid survive.
 slot: management
+boards: [strategie-business, führung-zeit-geld]
+reibung: [wisdom, innovation]
 keywords: [management, organisation, okr, team, prozesse, führung, inflection, scaling, output]
 ---
 

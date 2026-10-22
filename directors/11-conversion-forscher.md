@@ -5,6 +5,8 @@ vorbild: André Morys
 domain: Conversion-Optimierung, Verhaltenspsychologie & Experimentation
 tagline: Ungetestet bleibt jede Idee eine Meinung.
 slot: cro
+boards: [strategie-business]
+reibung: [innovation, brand]
 keywords: [cro, conversion, testing, ab-test, psychologie, hypothesen, friction, motivation, landingpage]
 ---
 

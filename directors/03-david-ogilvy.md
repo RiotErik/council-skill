@@ -4,6 +4,8 @@ typ: person
 domain: Medien, Werbung & Markenführung
 tagline: The consumer is not a moron. She's your wife.
 slot: brand
+boards: [strategie-business]
+reibung: [attention, cro]
 keywords: [werbung, marke, copy, brand, persuasion, headline, direct response, positionierung]
 ---
 

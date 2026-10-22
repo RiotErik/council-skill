@@ -5,6 +5,8 @@ vorbild: MrBeast
 domain: Aufmerksamkeit, Creator Economy & Skalierung
 tagline: Die ersten Sekunden entscheiden alles.
 slot: attention
+boards: [strategie-business]
+reibung: [brand, capital]
 keywords: [attention, hook, viralität, creator, youtube, social, retention, ctr, thumbnail, reichweite]
 ---
 

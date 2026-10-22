@@ -4,6 +4,8 @@ typ: person
 domain: Innovation & Produkt
 tagline: Stay hungry, stay foolish.
 slot: innovation
+boards: [strategie-business]
+reibung: [capital, cro]
 keywords: [produkt, innovation, design, wow, disruption, fokus, vereinfachung, vision]
 ---
 

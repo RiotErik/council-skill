@@ -5,6 +5,8 @@ vorbild: Warren Buffett
 domain: Finanzen, Kapital & Risiko
 tagline: Lieber langweilig und profitabel als spannend und unsicher.
 slot: capital
+boards: [strategie-business, führung-zeit-geld]
+reibung: [innovation, attention]
 keywords: [finanzen, kapital, risiko, investition, cashflow, burggraben, moat, akquisition, geduld, preis]
 ---
 

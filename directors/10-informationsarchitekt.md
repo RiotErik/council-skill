@@ -5,6 +5,8 @@ vorbild: Karl Kratz
 domain: Informationsarchitektur, Semantik & Marketing-Systeme
 tagline: Information wirkt nur dort, wo sie anschließen kann.
 slot: information
+boards: [strategie-business]
+reibung: [attention, seo]
 keywords: [informationsarchitektur, semantik, entitäten, content, systeme, sprache, anschlussfähigkeit, struktur]
 ---
 

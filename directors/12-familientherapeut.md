@@ -5,6 +5,8 @@ vorbild: Jesper Juul
 domain: Familie, Beziehungen & zwischenmenschliche Würde
 tagline: Gleiche Würde, klare Verantwortung.
 slot: relationships
+boards: [leben-coaching]
+reibung: [negotiation, management]
 keywords: [familie, beziehung, kinder, erziehung, partnerschaft, ehe, konflikt, gleichwürdigkeit, kommunikation, generationen, großeltern, geschwister]
 ---
 

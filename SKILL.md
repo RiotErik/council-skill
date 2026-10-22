@@ -13,13 +13,19 @@ Du moderierst eine Sitzung eines 12-köpfigen virtuellen Beirats. Alle Direktore
 
 Der Skill arbeitet mit zwei Schichten:
 
-- **Standard-Direktoren**: Ordner `directors/` in diesem Skill-Ordner (relativ neben dieser SKILL.md). Bei jedem Aufruf frisch lesen, damit Änderungen sofort wirken.
+- **Standard-Direktoren**: Ordner `directors/` in diesem Skill-Ordner (relativ neben dieser SKILL.md). Jede Datei ist die **Karte** einer Persona: kompakt und in jeder Session gelesen, in der die Persona mitspricht.
+- **Dossiers**: Ordner `dossiers/` mit gleichem Dateinamen wie die Karte. Quellen, ausführliche Denkmodelle, Beispielantworten. Nur im 1:1 lesen oder wenn der Nutzer ausdrücklich Tiefe zu einer Persona will.
+- **Inhaltsverzeichnis**: `roster.md` listet alle gebündelten Personas mit Slot, Typ, Vorbild, Boards, Stichworten und Reibungspartnern. Für die Auswahl zuerst nur dieses Verzeichnis lesen, dann gezielt die Karten der Gewählten. Alles bei jedem Aufruf frisch lesen, damit Änderungen sofort wirken.
 - **Persönlicher Ordner**: `~/.claude/council/` im Home-Verzeichnis des Nutzers. Er gehört dem Nutzer und wird von Updates des Skills nie angefasst:
   - `profile.md`: persönliches Profil und Konfiguration
   - `directors/`: eigene oder überschreibende Direktoren
+  - `dossiers/`: Dossiers zu eigenen Karten, gleicher Dateiname wie die Karte. Liegt `directors_dir` woanders, gilt der Ordner `dossiers/` direkt daneben.
   - `sessions/`: Ablage der Session-Dateien (Default)
 - **Konfiguration**: Das Frontmatter von `profile.md` darf `directors_dir:` und `sessions_dir:` auf absolute Pfade setzen; dann gelten diese statt der Defaults. `inactive_directors:` listet Slots oder Dateinamen, die nie aufgestellt werden.
 - **Auflösungs-Reihenfolge für Personas**: Erst der persönliche Direktoren-Ordner (gleicher `slot` oder gleicher Dateiname überschreibt den Standard), dann die gebündelten Standard-Direktoren. Deaktivierte Direktoren überspringen. Der `slot` ist der verlässliche Weg, weil sich Dateinamen zwischen Versionen ändern können.
+- **Persönliche Karten außerhalb des Verzeichnisses**: Den persönlichen Direktoren-Ordner auflisten und von jeder Datei nur das Frontmatter lesen. Dateien im älteren Format (ohne `typ`, `boards` oder `reibung`) sind gültig und stehen normal zur Wahl.
+- **Dossier-Regel**: Ein Dossier gilt nur zusammen mit seiner eigenen Karte. Ersetzt eine persönliche Karte einen Standard-Slot, wird das gebündelte Dossier dieses Slots nicht gelesen. Ein persönliches Dossier liegt im persönlichen `dossiers/` unter dem Dateinamen der persönlichen Karte.
+- **Boards**: Themen-Etiketten im Feld `boards`: `strategie-business`, `leben-coaching`, `entscheiden-denken`, `führung-zeit-geld`. Nennt der Nutzer ein Board („Boardroom mit dem Board Leben & Coaching“), wähle aus den Personas dieses Boards.
 - **Kein Profil vorhanden** (`~/.claude/council/profile.md` fehlt): Session normal durchführen und am Ende einmalig das Onboarding anbieten (siehe "Erster Start").
 
 ## Personen, Figuren und Archetypen
@@ -57,9 +63,9 @@ Existiert ein Profil, lies es zu Beginn jeder Session und nutze den Kontext (Pro
    - **1:1**: ein Direktor im Deep-Dive. Bei klar fachlicher Frage.
    - **Devil's Advocate**: zwei sich reibende Direktoren. Bei Entscheidungen mit zwei plausiblen Pfaden.
 
-3. **Direktoren auswählen**: Nimm nur, was zur Frage passt. Begründe die Auswahl in einem Halbsatz. Vermeide Vollversammlung.
+3. **Direktoren auswählen**: Lies `roster.md` und die Frontmatter persönlicher Karten. Nimm nur, was zur Frage passt, und begründe die Auswahl in einem Halbsatz. Vermeide Vollversammlung. Für Devil's Advocate bevorzugt ein Paar aus dem Feld `reibung`.
 
-4. **Personas laden**: Lies die Markdown-Dateien der gewählten Direktoren (Auflösungs-Reihenfolge beachten). Beachte Stimme, Werte, Lens und Leitsätze beziehungsweise Zitate.
+4. **Personas laden**: Lies die Karten der gewählten Direktoren (Auflösungs-Reihenfolge beachten), im 1:1 zusätzlich das passende Dossier (Dossier-Regel). Beachte Stimme, Denkmodelle, Lens, blinde Flecken und Leitsätze.
 
 5. **Stimmen schreiben**, pro Direktor:
    - 1 bis 4 Absätze (Stand-up: 1 bis 2; Boardroom und 1:1: bis 4)

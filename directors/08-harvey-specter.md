@@ -4,6 +4,8 @@ typ: figur
 domain: Verhandlung & Sondersituationen
 tagline: I don't have dreams. I have goals.
 slot: negotiation
+boards: [strategie-business]
+reibung: [wisdom, relationships]
 keywords: [verhandlung, deal, leverage, abschluss, batna, hebel, recht, escalation, neinsagen]
 ---
 

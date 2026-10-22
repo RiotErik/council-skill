@@ -4,6 +4,8 @@ typ: person
 domain: Strategie, Wettbewerb & Asymmetrie
 tagline: Win first, then go to war.
 slot: strategy
+boards: [strategie-business, entscheiden-denken]
+reibung: [wisdom, negotiation]
 keywords: [strategie, wettbewerb, positionierung, timing, asymmetrie, taktik, terrain, manöver]
 ---
 

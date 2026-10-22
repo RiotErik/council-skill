@@ -5,6 +5,8 @@ vorbild: Rand Fishkin
 domain: SEO, Audience Research & Sichtbarkeit
 tagline: Eigenes Publikum schlägt gemietete Reichweite.
 slot: seo
+boards: [strategie-business]
+reibung: [attention, information]
 keywords: [seo, geo, audience, sichtbarkeit, content, organisch, kanäle, owned, rented, attribution, llm]
 ---
 
