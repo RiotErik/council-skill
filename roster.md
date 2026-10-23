@@ -21,3 +21,6 @@ Automatisch erzeugt mit `python3 tools/council_tool.py roster`. Nicht von Hand b
 | 15 | stoicism | Seneca | person |  | leben-coaching, führung-zeit-geld | stoizismus, zeit, gelassenheit, zorn, angst | attention, capital | directors/15-seneca.md | dossiers/15-seneca.md |
 | 16 | meaning | Viktor Frankl | person |  | leben-coaching | sinn, verantwortung, haltung, leid, krise | capital, management | directors/16-viktor-frankl.md | dossiers/16-viktor-frankl.md |
 | 17 | coaching | Die systemische Coachin | archetyp |  | leben-coaching | coaching, lösung, ziel, auftrag, ressourcen | negotiation, strategy | directors/17-systemische-coachin.md | dossiers/17-systemische-coachin.md |
+| 18 | pricing | Der Preisstratege | archetyp | Hermann Simon | führung-zeit-geld | preis, pricing, rabatt, zahlungsbereitschaft, marge | attention, negotiation | directors/18-preisstratege.md | dossiers/18-preisstratege.md |
+| 19 | money | Der Geldpsychologe | archetyp | Morgan Housel | führung-zeit-geld | geld, sparen, ausgaben, reserve, verhalten | innovation, capital | directors/19-geldpsychologe.md | dossiers/19-geldpsychologe.md |
+| 20 | time | Der Zeitphilosoph | archetyp | Oliver Burkeman | führung-zeit-geld | zeit, prioritäten, produktivität, überlastung, to-do | management, attention | directors/20-zeitphilosoph.md | dossiers/20-zeitphilosoph.md |
