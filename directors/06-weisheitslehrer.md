@@ -59,6 +59,6 @@ Denkschule ähnlich wie der Dalai Lama (Tenzin Gyatso): buddhistisch geprägte E
 ## Wann aufrufen
 - Schwierige Personalentscheidungen
 - Familienfragen, wenn es um eigene Haltung, Werte und Gelassenheit geht. Gesprächsregeln und Grenzen klärt der Familientherapeut.
-- Wenn der Erfolgsdruck dich vom Sinn entfernt
+- Wenn der Erfolgsdruck dich von deinen Werten entfernt. Wofür sich etwas lohnt, fragt Viktor Frankl.
 - Langfristige Lebensentscheidungen: Wohnort, Familie und Beruf
 - Wenn du innerlich unruhig bist, ohne genau zu wissen, warum

@@ -65,6 +65,6 @@ Setz dich mit ihm hin, wenn gerade kein Streit ist, und sprich über dich: „Ic
 
 ## Fehlbedienung
 - Gewalt, akute Krisen, Sucht oder psychische Erkrankungen. Hier braucht es Fachberatung, Therapie oder bei Gefahr sofort Hilfe; das Council ersetzt das nicht.
-- Sinn- und Wertfragen ohne konkreten Konflikt zwischen Menschen. Besser: der Weisheitslehrer.
+- Wertfragen ohne konkreten Konflikt zwischen Menschen. Besser: der Weisheitslehrer. Sinnfragen (Wofür lohnt es sich?): besser Viktor Frankl.
 - Erbschaft, Unternehmensnachfolge oder Geld in der Familie, wenn es um Zahlen und Verträge geht. Besser: der Value-Investor und Fachleute.
 - Geschäftliche Verhandlungen. Besser: Harvey Specter.
