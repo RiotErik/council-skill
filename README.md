@@ -2,9 +2,9 @@
 
 # Council: dein virtueller Beirat für Claude
 
-Du stehst vor einer Entscheidung und willst sie aus mehr als einer Richtung durchdenken? Das Council setzt zwölf Beiräte an einen Tisch: Produkt, Marke, Geld, Verhandlung, Sichtbarkeit, Conversion, Ethik und Familie. Sie debattieren deine Frage, und am Ende steht eine klare Empfehlung mit nächsten Schritten, Risiko und offenen Punkten.
+Du stehst vor einer Entscheidung und willst sie aus mehr als einer Richtung durchdenken? Das Council setzt bis zu 20 Beiräte aus vier Boards an einen Tisch: Strategie, Marke, Geld, Verhandlung, Sichtbarkeit, Denkfehler, Preise, Zeit, Sinn und Familie. Sie debattieren deine Frage, und am Ende steht eine klare Empfehlung mit nächsten Schritten, Risiko und offenen Punkten.
 
-> **In short (English):** Council is a skill for Claude Code that turns one question into a board meeting. Twelve advisors argue from their own angle: some carry the names of historical or fictional figures, the others are archetypes modelled on well-known schools of thought. You get a Markdown file with distinct voices, visible disagreements and a recommendation (decision, actions, risk, open questions). Skill and personas are written in German. Ask in English and the council answers in English.
+> **In short (English):** Council is a skill for Claude Code that turns one question into a board meeting. Twenty advisors in four boards argue from their own angle: some carry the names of historical or fictional figures, the others are archetypes modelled on well-known schools of thought. You get a Markdown file with distinct voices, visible disagreements and a recommendation (decision, actions, risk, open questions). Skill and personas are written in German. Ask in English and the council answers in English.
 
 ## Was das Council macht
 
@@ -61,7 +61,9 @@ So läuft eine Sitzung ab:
 - **Risk**: Der Kunde wächst auf mehr als ein Drittel deines Umsatzes. Lackmustest: Würdest du zu diesen Konditionen auch unterschreiben, wenn drei andere Anfragen auf dem Tisch lägen?
 - **Open**: Wie groß ist der Druck auf Kundenseite, und was kostet ihn ein Wechsel?
 
-## Die zwölf Beiräte
+## Die 20 Beiräte
+
+### Strategie & Business
 
 | Beirat | Typ | Blickwinkel |
 |--------|-----|-------------|
@@ -70,15 +72,40 @@ So läuft eine Sitzung ab:
 | David Ogilvy | Person | Werbung, Marke, Versprechen |
 | Andrew Grove | Person | Management, Organisation, Wendepunkte |
 | Der Reichweiten-Macher (ähnlich wie MrBeast) | Archetyp | Aufmerksamkeit, Hook, Distribution |
-| Der Weisheitslehrer (ähnlich wie der Dalai Lama) | Archetyp | Ethik, Sinn, langer Horizont |
 | Sun Tzu | Person | Strategie, Position, Wettbewerb |
 | Harvey Specter | Serienfigur | Verhandlung, Leverage, Abschluss |
 | Der Audience-Stratege (ähnlich wie Rand Fishkin) | Archetyp | SEO, Zielgruppe, Sichtbarkeit |
 | Der Informationsarchitekt (ähnlich wie Karl Kratz) | Archetyp | Semantik, Struktur, Systeme |
 | Der Conversion-Forscher (ähnlich wie André Morys) | Archetyp | Conversion, Hypothesen, Tests |
+
+### Leben & Coaching
+
+| Beirat | Typ | Blickwinkel |
+|--------|-----|-------------|
+| Der Weisheitslehrer (ähnlich wie der Dalai Lama) | Archetyp | Ethik, Sinn, langer Horizont |
 | Der Familientherapeut (ähnlich wie Jesper Juul) | Archetyp | Familie, Beziehungen, Gleichwürdigkeit |
+| Seneca | Person | Gelassenheit, Zeit, Verlust |
+| Viktor Frankl | Person | Sinn, Haltung, Krise |
+| Die systemische Coachin | Archetyp | Ziele, Rollen, Lösungen |
+
+### Entscheiden & Denken
+
+| Beirat | Typ | Blickwinkel |
+|--------|-----|-------------|
+| Der Denkfehler-Forscher (ähnlich wie Daniel Kahneman) | Archetyp | Denkfehler, Wahrnehmung, Urteil |
+| Die Entscheidungsstrategin (ähnlich wie Annie Duke) | Archetyp | Unsicherheit, Wahrscheinlichkeiten, Aufhören |
+
+### Führung, Zeit, Geld
+
+| Beirat | Typ | Blickwinkel |
+|--------|-----|-------------|
+| Der Preisstratege (ähnlich wie Hermann Simon) | Archetyp | Preise, Rabatte, Positionierung |
+| Der Geldpsychologe (ähnlich wie Morgan Housel) | Archetyp | Verhalten mit Geld, Genug |
+| Der Zeitphilosoph (ähnlich wie Oliver Burkeman) | Archetyp | Begrenzte Zeit, Prioritäten |
 
 **Warum Archetypen?** Mit Namen sitzen nur historische, vor mehr als zehn Jahren verstorbene oder fiktive Personen am Tisch. Wer heute lebt oder erst vor Kurzem gestorben ist, erscheint als Archetyp: eine erfundene Figur, die eine Denkschule verkörpert und auf ihr Vorbild nur verweist. Archetypen geben sich nie als die reale Person aus und legen ihr keine Worte in den Mund. Aufrufen kannst du sie trotzdem über den Namen des Vorbilds, etwa mit „Frag Buffett“.
+
+Ein Beirat kann zu mehreren Boards gehören. Mit „Boardroom mit dem Board Leben & Coaching“ lädst du gezielt ein.
 
 ## Fünf Modi
 
@@ -162,6 +189,6 @@ git -C ~/.claude/skills/council fetch && git -C ~/.claude/skills/council reset -
 
 ## Version und Lizenz
 
-Aktuelle Version: 2.2.0, siehe [CHANGELOG.md](CHANGELOG.md).
+Aktuelle Version: 2.3.0, siehe [CHANGELOG.md](CHANGELOG.md).
 
 MIT-Lizenz, siehe [LICENSE](LICENSE). Erstellt von Erik Lichtenecker, Ecklicht Consulting · [ecklicht.de/projekte](https://ecklicht.de/projekte/#council)

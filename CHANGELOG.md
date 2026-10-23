@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.3.0 (2026-10-23)
+
+Größerer Beirat.
+
+- Acht neue Beiräte in drei neuen Boards: Entscheiden & Denken (Denkfehler-Forscher, Entscheidungsstrategin), Leben & Coaching (Seneca, Viktor Frankl, systemische Coachin) sowie Führung, Zeit, Geld (Preisstratege, Geldpsychologe, Zeitphilosoph), jeweils mit Karte und Dossier mit geprüften Quellen.
+- 20 Beiräte insgesamt, Quickref und README nach Boards gegliedert; Aufruf ganzer Boards („Boardroom mit dem Board Leben & Coaching“).
+- Klarere Abgrenzung: Sinnfragen gehen an Viktor Frankl, Wertfragen an den Weisheitslehrer.
+- Vorschaubild mit 20 Plätzen und allen fünf Modi.
+
 ## 2.2.0 (2026-10-22)
 
 Echte Debatte.
